@@ -11,4 +11,6 @@ h1{
 
 main{
     background-color:white;
+    width:70%;
+    margin:0 auto; /*TRouBLe*/
 }
