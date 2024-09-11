@@ -11,5 +11,11 @@
     <body>
         <h1>Ana's First Repo</h1>
         <p>GitHub and coding is very scary!!!</p>
+         <h2>Today I learned</h2>
+        <ul>
+         <li>Repositories</li>
+         <li>Commits</li>
+         <li>Git vs GitHub vs GitHuB Desktop</li>
+        </ul>
     </body>
 </html>
